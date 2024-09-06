@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mikiyas-Meles-Assefa
-- 👀 I’m interested in studying Quantum Computing and its applications in healthcare
-- 🌱 I’m currently a senior at Saint Joseph High School but also taking online courses on Coursera 
-- 💞️ I’m looking to collaborate on simulations and console apps
-- 📫 How to reach me mikiyasmeles.3024169.cs@gmail.com
+- 💞️ I love solving problems
+- 🌱 I’m currently a CS freshman in carnegie mellon university qatar
+- 👀 I’m looking to collaborate on simulations and console apps
+- 📫 How to reach me massefa@andrew.cmu.edu
 
 <!---
 Mikiyas-Meles-Assefa/Mikiyas-Meles-Assefa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
