@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mikiyas-Meles-Assefa
-- 💞️ I love solving problems
-- 🌱 I’m currently a CS rising sophomore in carnegie mellon university qatar
+- I love solving problems
+- 🌱 CS junior @ carnegie mellon university
 - 📫 How to reach me massefa@andrew.cmu.edu
 
 <!---
